@@ -1,0 +1,29 @@
+.footer {
+  background-color:#1a242f;
+  height: 82px;
+  padding: 0px 40px;
+  align-items: center;
+  justify-content: space-around;
+  
+}
+
+.copy{
+   color: var(--clr-neon) !important;
+    font-size: 16px;
+
+
+}
+
+.copyright{
+  position: relative;
+  margin-top: 10px;
+  color: var(--clr-neon) !important;
+  font-size: 16px;
+}
+
+.place {
+  position: relative;
+  margin-top: -8px;
+  color: var(--clr-neon) !important;
+  font-size: 16px;
+}

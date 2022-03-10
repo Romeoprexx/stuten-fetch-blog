@@ -1,0 +1,61 @@
+:root {
+  --clr-neon: hsl(317 100% 54%);
+  --clr-bg: hsl(323 21% 16%);
+}
+
+
+@import url('https://fonts.googleapis.com/css2?family=Comforter&family=Creepster&family=Grechen+Fuemen&family=Inter:wght@300&family=Montserrat&family=Moon+Dance&family=Orbitron:wght@600&family=PT+Serif&family=Parisienne&family=Quintessential&family=Roboto&family=Rubik+Beastly&family=Satisfy&family=Source+Sans+Pro&display=swap');
+
+
+
+.loadingMsg {
+  margin: 6rem 0;
+  text-align: center;
+  color: var(--clr-neon) !important;
+  font-size: 2rem;
+}
+
+.errorMsg {
+  margin: 4rem 0;
+  text-align: center;
+  color: red;
+  font-size: 1.5rem;
+}
+
+
+
+.postCard {
+  display: flex;
+  flex-direction: column;
+  margin: 2rem;
+  background-color: rgba(255, 255, 255, 0.06);
+  -webkit-backdrop-filter: blur(20px);
+  backdrop-filter: blur(20px);
+  height: 550px;
+  width: 320px;
+  padding: 1rem;
+  justify-content: space-around;
+  align-items: center;
+  border-radius: 8px;
+  -webkit-box-shadow: 20px 20px 22px rgba(0,0,0,0.2);
+  box-shadow: 20px 20px 22px rgba(0,0,0,0.2);
+  text-decoration: none;
+}
+.singlepost {
+  min-height: 60vh;
+  display: flex;
+  justify-content: center !important;
+  flex-flow: row wrap;
+  margin: 1rem;
+}
+
+.single {
+  color: white;
+}
+
+
+.singular {
+  font-family: 'Quintessential', cursive;
+  color: antiquewhite;
+}
+

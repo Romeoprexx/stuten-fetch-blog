@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Comforter&family=Creepster&family=Grechen+Fuemen&family=Inter:wght@300&family=Montserrat&family=Moon+Dance&family=Orbitron:wght@600&family=PT+Serif&family=Parisienne&family=Quintessential&family=Roboto&family=Rubik+Beastly&family=Satisfy&family=Source+Sans+Pro&display=swap');
+
+
+.cardHero {
+    background-image: url(https://wallup.net/wp-content/uploads/2018/09/27/470328-abstract-art-colorful-colors-design-illustration-light-theme-748x421.jpg);
+    height: 60vh;
+}
+
+.text-center {
+    position: relative;
+    top: 100px;
+}
+
+.h1 {
+    color: white;
+    font-weight: 700;
+    font-family: 'Creepster', cursive;
+    font-size: 46px;
+}
+
+.p {
+    color: white;
+   margin-top: 3em;
+   font-family: 'Satisfy', cursive;
+   font-size: 26px;
+}
