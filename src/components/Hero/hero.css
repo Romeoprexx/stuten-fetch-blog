@@ -76,9 +76,9 @@ h6{
 }
 
 body{
-  background: url(https://dl.dropbox.com/s/mpmu0gjtxv2x3fs/Webp.net-resizeimage%20%281%29.jpg?raw=1) no-repeat center center fixed; 
+  background: url(https://images.unsplash.com/photo-1553095066-5014bc7b7f2d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8d2FsbCUyMGJhY2tncm91bmR8ZW58MHx8MHx8&w=1000&q=80) no-repeat center center fixed; 
   background-size: cover;
-  background: linear-gradient(to right, #12c2e9, #c471ed, #f64f59);
+  
 }
 
 @media screen and (max-width: 912px) {
